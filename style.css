@@ -78,3 +78,16 @@ li {
     border: none;
     color: aliceblue;
 }
+
+
+/* sponsor section */
+.sponsor-container{
+    display: flex;
+   align-items: center;
+   justify-content: space-around;
+    border: 1px solid rgb(185, 184, 184);
+    margin: 0px 220px;
+}
+img{
+    padding: 10px;
+}
